@@ -1,0 +1,23 @@
+.new-roman {
+    font-family: 'Times New Roman', Times, serif
+}
+
+.odd {
+    font-family: Verdana, sans-serif;
+    background-color: rgb(240, 128, 128);
+}
+
+#num2 {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+#num3 {
+    font-size: 24px;
+}
+
+#num4 {
+    background-color: rgb(144, 238, 144);
+    font-size: 24px;
+    font-weight: bold;
+}
